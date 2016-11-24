@@ -18,7 +18,7 @@ optionradar = {
     visualMap: {
             min: 0,
             max: 1,
-            text:['Low','High'],
+            text:['High','Low'],
             realtime: false,
             calculable: true,
             inRange: {
